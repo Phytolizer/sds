@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.20 FATAL_ERROR)
 project(
   sds
   LANGUAGES C
-  VERSION 0.1.0
+  VERSION 2.1.0
   DESCRIPTION "Simple Dynamic Strings"
   HOMEPAGE_URL "https://github.com/Phytolizer/sds")
 
